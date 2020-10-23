@@ -41,7 +41,7 @@
 O Proffy é uma aplicação que conecta estudantes com professores que estejam disponíevis para aulas particulares. Projeto desenvolvido durante a semana do Next Level Week 2ª Edição. 
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/happy/blob/master/public/img/Happy.PNG" />
+<img src="https://github.com/gustavo-nt/proffy/blob/master/public/images/Proffy.PNG" />
 
 ### ⚙ Pré-requisitos
 
