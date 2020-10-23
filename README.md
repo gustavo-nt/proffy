@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/proffy/blob/master/public/images/logo-proffy.svg" alt="logo" height="65"/>
+  <img src="https://github.com/gustavo-nt/proffy/blob/master/public/images/logo-proffy.svg" alt="logo" height="80"/>
 </p>
 
 <h1 align="center">
